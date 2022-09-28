@@ -2,4 +2,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<!--START_SECTION:activity-->
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nz3i2a30ep85rv5ymcpglhndj&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=nz3i2a30ep85rv5ymcpglhndj&redirect=true)

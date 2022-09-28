@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Visual Basic](https://github.com/RCNOverwatcher/VisualBasic) and [Python](https://github.com/RCNOverwatcher/Python-Challenges) while doing [BackroomCLI](https://github.com/RCNOverwatcher/BackroomsCLI)  as a side project  
   
 
-- 🌱 I’m currently learning C# while hoping to o more back end development in the future!  
+- 🌱 I’m currently learning C# while hoping to do more back end development in the future!  
   
 
 - ⚡ Don't look at my website its a mess atm  

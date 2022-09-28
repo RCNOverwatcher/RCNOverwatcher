@@ -1,5 +1,3 @@
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <div align="center">
 <img src="https://jacobwiltshire.dev/assets/rcnLogoFinal.png" align="center" style="width: 100%" />
 </div>  
@@ -17,7 +15,7 @@
 
 - ⚡ Don't look at my website its a mess atm  
   
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <br/>  
 
 

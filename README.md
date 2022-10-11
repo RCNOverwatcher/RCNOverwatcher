@@ -82,17 +82,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RCNOverwatcher&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-<br/>  
+[![@rcnoverwatcher's Holopin board](https://holopin.io/api/user/board?user=rcnoverwatcher)](https://holopin.io/@rcnoverwatcher)
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nz3i2a30ep85rv5ymcpglhndj&cover_image=true&theme=default&bar_color_cover=true" /></div>  
-
-
-
-
-
-
-
-[![@rcnoverwatcher's Holopin board](https://holopin.io/api/user/board?user=rcnoverwatcher)](https://holopin.io/@rcnoverwatcher)
 

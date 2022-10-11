@@ -94,6 +94,5 @@
 <img src="https://komarev.com/ghpvc/?username=RCNOverwatcher&&style=flat-square" align="center" />
 </div>  
 
-<div align="center">
 [![@rcnoverwatcher's Holopin board](https://holopin.io/api/user/board?user=rcnoverwatcher)](https://holopin.io/@rcnoverwatcher)
-</div>
+

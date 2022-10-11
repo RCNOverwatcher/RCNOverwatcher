@@ -88,12 +88,6 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nz3i2a30ep85rv5ymcpglhndj&cover_image=true&theme=default&bar_color_cover=true" /></div>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=RCNOverwatcher&&style=flat-square" align="center" />
-</div>  
-
 
 
 

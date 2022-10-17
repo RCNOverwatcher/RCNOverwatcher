@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://jacobwiltshire.dev/assets/rcnLogoFinal.png" align="center" style="width: 100%" />
+<img src="https://jacobwiltshire.dev/assets/external/rcnLogoFinal.png" align="center" style="width: 100%" />
 </div>  
   
 

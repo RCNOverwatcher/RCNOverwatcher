@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning C# while hoping to do more back end development in the future!  
   
 
-- ⚡ <strike>Don't look at my website its a mess atm</strike> **its cool now**  (oh yeah heres my [gpg key](https://github.com/RCNOverwatcher.gpg))
+- ⚡ check out my website on the sidebar!  (oh yeah heres my [gpg key](https://github.com/RCNOverwatcher.gpg))
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br/>  

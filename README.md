@@ -80,7 +80,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RCNOverwatcher&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 [![@rcnoverwatcher's Holopin board](https://holopin.io/api/user/board?user=rcnoverwatcher)](https://holopin.io/@rcnoverwatcher)
 

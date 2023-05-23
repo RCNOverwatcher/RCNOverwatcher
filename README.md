@@ -82,7 +82,7 @@
 ## Github Stats  
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthn0&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCNOverwatcher&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
 </div>
 
 [![@rcnoverwatcher's Holopin board](https://holopin.io/api/user/board?user=rcnoverwatcher)](https://holopin.io/@rcnoverwatcher)

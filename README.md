@@ -83,5 +83,7 @@
 
 [![@rcnoverwatcher's Holopin board](https://holopin.io/api/user/board?user=rcnoverwatcher)](https://holopin.io/@rcnoverwatcher)
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nz3i2a30ep85rv5ymcpglhndj&cover_image=true&theme=default&bar_color_cover=true" /></div>  
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-dusky.vercel.app/api" alt="Current Spotify Song">
+</a>
 

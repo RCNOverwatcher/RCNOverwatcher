@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on [Visual Basic](https://github.com/RCNOverwatcher/VisualBasic) and [Python](https://github.com/RCNOverwatcher/Python-Challenges) while doing [PointercrateCLI](https://github.com/RCNOverwatcher/PointercrateCLI) and [BackroomsCLI](https://github.com/RCNOverwatcher/BackroomsCLI)  as side projects
+- 🔭 I’m currently working on some secret projects...
   
 
-- 🌱 I’m currently learning C# while hoping to do more back end development in the future!  
+- 🌱 I’m currently learning front end development with typescript and react!  
   
 
-- ⚡ check out my website on the sidebar!  (oh yeah heres my [gpg key](https://github.com/RCNOverwatcher.gpg))
+- ⚡ check out my website on the sidebar
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br/>  
